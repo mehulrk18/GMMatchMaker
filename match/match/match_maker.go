@@ -120,6 +120,13 @@ func (g *GamePool) MakeMatches() []models.Match {
 			}
 			i++
 		}
+		// } else if pool.Game.Category == models.ONEvN{
+
+		// } else if pool.Game.Category == models.NvN{
+
+		// } else {
+
+		// }
 	}
 
 	go func() {
