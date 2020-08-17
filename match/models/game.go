@@ -20,11 +20,11 @@ type Game struct {
 }
 
 // GamesRating rating of each player in game played.
-type GamesRating struct {
-	ID     uint64
-	UserID uint64
-	User   User
-	GameID uint64
-	Game   Game
-	Rating float32
-}
+// type GamesRating struct {
+// 	ID     uint64
+// 	UserID uint64
+// 	User   User
+// 	GameID uint64
+// 	Game   Game
+// 	Rating float32
+// }

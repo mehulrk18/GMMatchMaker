@@ -8,7 +8,7 @@ type Match struct{
 	Players			[]User
 	MaxCapacity		uint32
 	TotalPlayers	uint32
-	AvgRating		float32
+	AvgRating		float64
 }
 
 
