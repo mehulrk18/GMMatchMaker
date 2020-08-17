@@ -2,7 +2,7 @@ package match
 
 
 import (
-
+	models "github.com/mehulrk18/GMMatchMaker/models"
 	deque "gopkg.in/karalabe/cookiejar.v1/collections/deque"
 	"time"
 )
